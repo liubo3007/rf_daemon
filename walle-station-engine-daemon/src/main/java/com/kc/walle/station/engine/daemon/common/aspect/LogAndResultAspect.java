@@ -11,7 +11,11 @@ import org.slf4j.LoggerFactory;
 
 import com.kc.walle.common.infrastructure.util.JacksonJsonUtil;
 
-
+/**
+ * ÇÐÃæ
+ * @author Administrator
+ *
+ */
 @Aspect
 @Component
 public class LogAndResultAspect {
